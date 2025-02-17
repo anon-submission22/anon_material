@@ -10,6 +10,8 @@ For anonymizing the submission, the generative plugin has been removed from the 
 
 # Recordings
 
-- We have some short snippets from the eventual show. See Video 1
+- **AudioSnippets.mp3**: Three short snippets from the rehearsals and the eventual show
+- **Vid1.mp4**: A short recording from audience level at the eventual show
+
 - The audio from the performance was recorded, but we have not been given access to them yet. We will be sharing the recordings soon (if release permissions are granted)
 
